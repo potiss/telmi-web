@@ -1,0 +1,20 @@
+{
+    "name": "telmi/web",
+    "description": "Extensión Telmi",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Telmi",
+            "email": "dlasheras@telmi.es"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "telmi\\": "src/"
+        }
+    }
+}
