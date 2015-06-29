@@ -1,5 +1,5 @@
 <?php
-namespace mongosoft\soapclient;
+namespace telmi\ws;
 
 use Yii;
 use yii\base\Component;
